@@ -1,13 +1,3 @@
-"""
-Magic square is a square filled with numbers starting with one
-in a way that the sum of each row, column and diagonal is the same.
-
-The following algorithm uses a recursive approach, it could
-be implemented iteratively but the algorithm would be way longer.
-
-"""
-
-
 import time
 
 start = time.time()
